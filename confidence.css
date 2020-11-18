@@ -1,0 +1,28 @@
+body {
+  background-color:#d0bdf4;
+}
+
+h1 {
+  color:#a0d2eb;
+  background-color:#e5eaf5;
+  
+}
+h3 {
+  color:#fff685;
+}
+
+h2{
+  color:#f75990;
+}
+#what-is{
+  color:white;
+}
+#positive{
+  color:white;
+}
+#negative{
+  color:white;
+}
+.img-1{
+  border:5px dashed gray;
+}

@@ -1,0 +1,26 @@
+body {
+  background-color: #00c3ff;
+}
+footer {
+  background-color: #fcba03;
+  width: 14.3%;
+}
+#gif1 {
+}
+
+aside {
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #203647;
+  font-style: italic;
+  color: #203647;
+}
+
+aside > p {
+  margin: 0.5rem;
+}
+bear {
+  background-color:#39603D;
+}

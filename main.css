@@ -1,3 +1,59 @@
 h1 {
-  color: red;
+  color: white;
+  text-align: center;
+}
+p {
+  color: white;
+  font-family: ;
+}
+body {
+  background-color: #ff5e6c;
+}
+h2 {
+  color: white;
+}
+.intro {
+  font-size: 25px;
+  color: silver;
+  background-color: white;
+  text-align: center;
+}
+#overlay-text {
+  color: pink;
+  font-size: 20px;
+}
+.self-bby {
+  position: relative;
+  width: 500px;
+}
+.img-1 {
+  width: 1423px;
+  height: 700px;
+}
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  overflow: hidden;
+  width: 1423px;
+  height: 100%;
+  transform: scale(0);
+  transition: 0.5s ease;
+}
+.self-bby:hover .overlay {
+  transform: scale(1);
+}
+.overlay-text {
+  color: pink;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+#opening-question {
+  font-size: 18px;
 }

@@ -2,7 +2,7 @@ body {
   background-color: #00c3ff;
 }
 footer {
-  background-color: #fcba03;
+  color: #fcba03;
   width: 14.3%;
 }
 #gif1 {
@@ -23,4 +23,7 @@ aside > p {
 }
 bear {
   background-color:#39603D;
+}
+footer{
+  text-align:center;
 }

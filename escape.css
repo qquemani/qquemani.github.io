@@ -40,7 +40,7 @@ footer {
   color: #DAA49A;
 }
 
-<style type="text/css" > .form-style-9 {
+.form-style-9 {
   max-width: 450px;
   background: #FAFAFA;
   padding: 30px;
@@ -111,10 +111,7 @@ footer {
   background-color: #28739E;
 }
 
- {
-  box-sizing: border-box;
-}
-.neg-1{
-  border:5px dashed white;
-  padding:10px;
+.neg-1 {
+  border: 5px dashed white;
+  padding: 10px;
 }
